@@ -2,6 +2,7 @@
 
 
 A simple web application where you can post anything on the page and also like the post that others posted!
+(followed tutorial)
 
 
 ![GitHub Logo](/Post_like.png)
